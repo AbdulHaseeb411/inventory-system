@@ -1,1 +1,1 @@
-# inventory-system
+# inventory-syste
